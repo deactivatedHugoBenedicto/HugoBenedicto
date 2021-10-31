@@ -1,6 +1,6 @@
 # Hugo B. S. Benedicto
 
-<h3 align="center"><samp>Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/hugobsb">o Hugo!</a></b></samp></h3>
+<h3 align="center"><samp>Hey, there! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/hugobsb">Hugo</a>!</b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Engineer IT Specialist at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.ab-inbev.com">AB-InBev, Z-Tech</a></b> 」<br>
